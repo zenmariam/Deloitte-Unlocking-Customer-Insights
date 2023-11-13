@@ -22,8 +22,9 @@ This project is tailored for data analytics professionals seeking to delve into 
 # What's in it for You?
 
 Completing this project allowed me to:
-Showcase expertise in customer segmentation analysis.
-Demonstrate the ability to uncover valuable customer insights.
-Contribute to the development of personalized marketing strategies in the banking sector.
+1. Showcase expertise in customer segmentation analysis.
+2. Demonstrate the ability to uncover valuable customer insights.
+3. Contribute to the development of personalized marketing strategies in the banking sector.
+
 These skills are highly valuable in the industry and can open up opportunities in customer analytics, marketing research, and strategy development.
 
